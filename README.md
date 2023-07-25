@@ -4,7 +4,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 This repository contains code of predicting titanic survival using data science methodologies
 # DATASET OVERVIEW
-This dataset provides of passenger in titanic and predicit they would have survive or not.
+This dataset provides of passenger in titanic and predicit they would have survive or not.It has 821 rows and 12 columns. The columns are 'PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp','Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked'.
 # DATASET USED
 To adress the prediciton dataset is from kaggle.
 # TOOLS USED
